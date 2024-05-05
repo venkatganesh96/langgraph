@@ -1,2 +1,2 @@
-from langchain_openai import AzureChatOpenAI
+from from langchain.chat_models import AzureChatOpenAI 
 print("hello world")
