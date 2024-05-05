@@ -1,2 +1,2 @@
 from langchain_openai import AzureChatOpenAI
-printf("hello world")
+print("hello world")
